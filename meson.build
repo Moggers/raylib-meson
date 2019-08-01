@@ -12,8 +12,8 @@ glfw_dep = glfw_proj.get_variable('glfw_dep')
 glfw_dependencies = glfw_proj.get_variable('dependencies')
 
 raylib_sources = [
-	'raylib/src/audio.c',
-	'raylib/src/audio.h',
+	'raylib/src/raudio.c',
+	'raylib/src/raudio.h',
 	'raylib/src/camera.h',
 	'raylib/src/config.h',
 	'raylib/src/core.c',
