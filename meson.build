@@ -50,8 +50,6 @@ raylib_sources = [
 	'raylib/src/external/glad.h',
 	'raylib/src/external/jar_mod.h',
 	'raylib/src/external/jar_xm.h',
-	'raylib/src/external/mini_al.c',
-	'raylib/src/external/mini_al.h',
 	'raylib/src/external/par_shapes.h',
 	'raylib/src/external/rgif.h',
 	'raylib/src/external/stb_image.h',
